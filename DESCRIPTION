@@ -1,9 +1,9 @@
 Package: ohwhaley3
-Title: What the Package Does (One Line, Title Case)
+Title: on demand whale shaped message
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Alex", "Russell", , "a@mq.edu.au", role = c("aut", "cre"))
+Description: A much better and slightly longer description. How about that.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
